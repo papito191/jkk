@@ -1,0 +1,6 @@
+Name : Oyenuga Ridwan
+Age: 21
+Designation : Intern
+Complexion: Blackish
+Height: Perfect Height 5'8
+Skills: Frontend, Backend, Machine Learning, Project Management
